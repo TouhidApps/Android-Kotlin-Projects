@@ -17,9 +17,6 @@ import android.view.View
 import android.view.WindowManager
 import android.widget.ImageView
 
-/**
- * Created by sonu on 28/03/17.
- */
 
 class FloatingWidgetService : Service(), View.OnClickListener {
 
